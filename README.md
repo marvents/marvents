@@ -10,13 +10,6 @@ I am a passionate Software Developer with a solid foundation in low-level progra
 <br>
 
 ---
-
-### 🚀 Featured Project
-
-## 📘 [ArabDocs.org](https://arabdocs.org)
-*Empowering the Arab developer community by providing comprehensive technical documentation in Arabic, bridging the gap in high-quality regional content.*
-
----
 </div>
 
 ### 🛠 Tech Stack & Tools
@@ -103,3 +96,4 @@ Currently deep-diving into **Cloud-Native technologies**, mastering **Docker orc
 *“Code is personal, architecture is intentional.”*
 
 </div>
+
